@@ -23,3 +23,6 @@ Group Netflix titles into meaningful clusters using unsupervised machine learnin
 ## Result in one line
 k = 10 gave the best silhouette score (0.217) and produced clear groups such as mature comedy movies, family movies, crime TV shows and two kinds of kids' TV.
 
+
+## GitHub
+https://github.com/Hoyoshedah/Netflix-Content-Segmentation

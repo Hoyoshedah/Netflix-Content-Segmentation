@@ -53,3 +53,6 @@ The PCA plot shows a clear split between movies (right) and TV shows (left). Ins
 ## 8. Conclusion
 K-Means with k = 10 split the Netflix catalogue into interpretable groups by type, audience rating, genre and length. The strongest separation is movies versus TV shows, then kids versus mature content.
 
+
+---
+GitHub repository: https://github.com/Hoyoshedah/Netflix-Content-Segmentation
